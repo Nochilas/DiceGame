@@ -1,0 +1,43 @@
+/*Tags*/
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+button{
+    background-color: white;
+    border: dotted;
+}
+
+/*Classes*/
+.diceimg1, .diceimg2{
+    width: 200px;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+.first_dice{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.second_dice{
+    display: inline-block;
+}
+
+.button_container{
+    margin: 0;
+    position: absolute;
+    right: 46%;  
+}
